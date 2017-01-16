@@ -28,7 +28,6 @@ List of required knowledge per level (from master Zero to master Deus-Ex-Machina
 - BEM CSS
 - Organic CSS
 - Atomic CSS
-- LESS
 - SMACSS
 - Less
 - Sass

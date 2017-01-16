@@ -104,8 +104,12 @@ List of required knowledge per level (from master Zero to master Deus-Ex-Machina
 - FRP
 - RX-JS
 - WebAssembly
-- WebSpeedForce[
+- WebSpeedForce
 - English
+
+## More Documentations
+
+[DevDocs](http://devdocs.io/)
 
 ## Contributing
 

@@ -87,6 +87,10 @@ List of required knowledge per level (from master Zero to master Deus-Ex-Machina
 - :white_medium_square: Selenium
 - :white_check_mark: D3JS
 - :white_check_mark: OASP
+- :white_medium_square: Ionic View
+- :white_medium_square: Ionic View 2
+- :white_check_mark: Swift
+- :white_check_mark: Java
 
 ### Level 4
 
@@ -97,6 +101,9 @@ List of required knowledge per level (from master Zero to master Deus-Ex-Machina
 - :white_medium_square: Meteor
 - :white_medium_square: Design Patterns
 - :white_medium_square: Web Sockets
+- :white_medium_square: Xamarin
+- :white_medium_square: iOS
+- :white_medium_square: Android
 
 ### Level Deus-Ex-Machina
 

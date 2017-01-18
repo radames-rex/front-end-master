@@ -87,6 +87,10 @@ List of required knowledge per level (from master Zero to master Deus-Ex-Machina
 - Selenium
 - D3JS
 - OASP
+- Ionic View
+- Ionic View 2
+- Swift
+- Java
 
 ### Level 4
 
@@ -97,6 +101,9 @@ List of required knowledge per level (from master Zero to master Deus-Ex-Machina
 - Meteor
 - Design Patterns
 - Web Sockets
+- Xamarin
+- iOS
+- Android
 
 ### Level Deus-Ex-Machina
 
